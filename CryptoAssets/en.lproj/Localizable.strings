@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  CryptoAssets
+
+  Created by Globus Dev on 26.11.2022.
+  
+*/
+
+"alert.ok" = "OK";
+
+"error.offline" = "Internet Connection appears to be offline";
+
+"error.title" = "Error";
+
+"assets.title" = "Assets";
+
+"assets-details.market-cap" = "Market Cap";
+
+"assets-details.supply" = "Supply";
+
+"assets-details.volume24h" = "Volume (24h)";
+
+"watchlist.title" = "Watchlist";
+
+"watchlist.remove" = "Remove";
+
+"tab_bar.asset" = "Assets";
+
+"tab_bar.favorite" = "Watchlist";
+
+"tab_bar.settings" = "Settings";
+
+"settings.title" = "Settings";
+
+"settings.icon" = "Icon";
+
+"icon-selection.title" = "Icon";
+
+"icon-selection.white" = "White";
+
+"icon-selection.black" = "Black";
+
+"icon-selection.yellow" = "Yellow";
